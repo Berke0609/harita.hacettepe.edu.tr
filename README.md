@@ -16,7 +16,7 @@ Hacettepe Üniversitesinin harita web-servisinin açık olarak paylaşıldığı
     <tbody>
         <tr>
             <td rowspan=3>2022-23</td>
-            <td> <a href="https://www.linkedin.com/in/berke-aygoren-04b556173/">Berke Aygören</a> </td>
+            <td> <a href="https://www.linkedin.com/in/berke-aygoren-04b556173/">Berke Aygöreb</a> </td>
             <td> <a href="https://github.com/Berke0609">https://github.com/Berke0609</a> </td>
         </tr>
         <tr>
